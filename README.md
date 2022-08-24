@@ -28,7 +28,7 @@ AWS EC2 / AWS RDS / AWS S3 / Netlify / Docker / Nginx / Gunicorn<br><br>
 <hr>
 
 ### 2. 내그림팜<br>
->유화제작 경매 거래 서비스<br>
+>유화제작 경매 거래 서비스 (팀 프로젝트)<br>
 개발 기간 : 2022.06.28 ~ 2022.07.05<br>
 개발 인원 : 4명<br><br>
 기술 스택 :<br>
@@ -38,7 +38,7 @@ AWS EC2 / AWS RDS / AWS S3 / Netlify / Nginx / Gunicorn<br><br>
 <hr>
 
 ### 3. 10Taku<br>
->애니메이션 추천 서비스<br>
+>애니메이션 추천 서비스 (팀 프로젝트)<br>
 개발 기간 : 2022.06.02 ~ 2022.06.14<br>
 개발 인원 : 4명<br><br>
 기술 스택 :<br>
