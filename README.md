@@ -10,12 +10,6 @@ Github : https://github.com/Roshu2<br>
 Resume : https://roshu2.github.io/resume/<br>
 <br>
 
-## 🏅Main Skills<br>
-* Python<br>
-* Django<br>
-* JavaScript<br>
-<br>
-
 ## 🧾Projects<br>
 ### 1. <a href="https://www.egorental.com/">이거대여</a><br>
 >지역 기반으로 사용자간 중고물품을 대여 할 수 있는 서비스 (팀 프로젝트)<br>
